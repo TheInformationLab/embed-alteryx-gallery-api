@@ -12,6 +12,6 @@ Created by [Andre de Vries](https://www.twitter.com/andre347_) (20th Dec 2017)
 
 Source code for embedding and running Alteryx Workflows and Analytic Apps in third party portals or websites.
 
-![Gallery API](https://thumb.ibb.co/mkhvH6/gallery_API.gif)
+![Gallery API](https://image.ibb.co/mczxVR/gallery_API.gif)
 
 Website created with Bootstrap with no added CSS. jQuery is used to simplify the DOM manipulation.
