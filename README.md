@@ -4,7 +4,7 @@ Embedding and running Alteryx workflows and apps in custom built websites. Requi
 
 Take a look at the [Gallery API](https://gallery.alteryx.com/api-docs/) Documentation for the API endpoints. You need to download the API files (alteryxGalleryAPI.js & oauth-signature.min.js) that can be grabbed from the API documentation.
 
-Setup
+Embedding Workflows
 ----------------
 Created by [Andre de Vries](https://www.twitter.com/andre347_) (20th Dec 2017)
 
