@@ -9,7 +9,7 @@ Take a look at the [Gallery API](https://gallery.alteryx.com/api-docs/) Document
 Embedding Workflows
 ----------------
 
-[Read the blog](https://www.theinformationlab.co.uk/?p=10856&preview=true) on how to set this up.
+[Read the blog](https://www.theinformationlab.co.uk/2017/12/21/use-alteryx-gallery-api-embed-apps-workflows/) on how to set this up.
 
 Source code for embedding and running Alteryx Workflows in third party portals or websites. In this example I used 'Region' to generate a file that is filtered to only the region specified by the user of the analytic app.
 
