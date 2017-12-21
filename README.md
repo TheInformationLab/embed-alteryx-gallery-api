@@ -11,7 +11,7 @@ Embedding Workflows
 
 [Read the blog](https://www.theinformationlab.co.uk/?p=10856&preview=true) on how to set this up.
 
-Source code for embedding and running Alteryx Workflows in third party portals or websites.
+Source code for embedding and running Alteryx Workflows in third party portals or websites. In this example I used 'Region' to generate a file that is filtered to only the region specified by the user of the analytic app.
 
 ![Gallery API](https://image.ibb.co/mczxVR/gallery_API.gif)
 
@@ -21,3 +21,9 @@ Embedding Analytic Apps with questions
 ----------------
 
 Source code for embedding and running Alteryx Analytic Apps with interface questions.
+
+![Gallery API](https://image.ibb.co/j5jms6/app_run_api.gif)
+
+Specify the question name in the interface tool.
+
+![appQuestion](https://image.ibb.co/cqBczm/Screen_Shot_2017_12_21_at_12_25_41.png)
