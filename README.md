@@ -27,3 +27,6 @@ Source code for embedding and running Alteryx Analytic Apps with interface quest
 Specify the question name in the interface tool.
 
 ![appQuestion](https://image.ibb.co/cqBczm/Screen_Shot_2017_12_21_at_12_25_41.png)
+
+Embedding Analytic Apps with file upload
+----------------
